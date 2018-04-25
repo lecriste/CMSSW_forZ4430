@@ -14,3 +14,5 @@ git clone git@github.com:lecriste/CMSSW_forZ4430.git .
 
 # Now you can add the analyzer
 git clone git@github.com:lecriste/Z4430.git UserCode
+
+scram b
